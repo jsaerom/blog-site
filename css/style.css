@@ -17,14 +17,23 @@ img{
 .aug-3{
   text-align: left;
   font-size: 1.5em;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  border: 1px solid black;
 }
 .aug-2{
   text-align: left;
   font-size: 1.25em;
+  margin-top: 3px;
+  margin-bottom: 3px;
+  border: 1px solid black;
 }
 .aug-1{
   text-align: left;
   font-size: 1em;
+  margin-top: 3px;
+  margin-bottom: 3px;
+  border: 1px solid black;
 }
 
 .about{
