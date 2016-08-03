@@ -1,0 +1,37 @@
+body{
+  text-align: center;
+  font-family: sans-serif;
+  background-color: #F8ECC2;
+}
+
+h1{
+  font-weight:bolder;
+  font-style:italic;
+  font-size: 3em;
+  font-family: fantasy;
+}
+
+img{
+  opacity: .8;
+}
+.aug-3{
+  text-align: left;
+  font-size: 1.5em;
+}
+.aug-2{
+  text-align: left;
+  font-size: 1.25em;
+}
+.aug-1{
+  text-align: left;
+  font-size: 1em;
+}
+
+.about{
+  color: #696969;
+  font-style: italic;
+}
+
+a{
+  color: black;
+}
